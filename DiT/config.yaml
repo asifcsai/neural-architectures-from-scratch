@@ -1,0 +1,12 @@
+img_height: 224
+img_width: 224
+patch_height: 16
+patch_width: 16
+d_model: 768
+num_heads: 12
+num_layers: 12
+mlp_ratio: 4.0
+dropout: 0.1
+time_emb_dim: 128
+
+batch_size: 2
