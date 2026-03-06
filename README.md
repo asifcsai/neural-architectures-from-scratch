@@ -1,11 +1,4 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Neural+Architectures+from+Scratch;LLMs+·+VLMs+·+Diffusion+·+Flow+Models;Built+from+First+Principles+in+PyTorch)](https://git.io/typing-svg)
