@@ -1,5 +1,4 @@
 <div align="center">
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Neural+Architectures+from+Scratch;LLMs+·+VLMs+·+Diffusion+·+Flow+Models;Built+from+First+Principles+in+PyTorch)](https://git.io/typing-svg)
 
